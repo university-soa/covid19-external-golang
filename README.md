@@ -1,0 +1,1 @@
+# Golang App that call external news API
